@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidHanziWriter</string>
+    <string name="play_hanzi_anim">播放笔画动画</string>
+    <string name="write_hanzi">重写</string>
+</resources>
